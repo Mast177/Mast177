@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 
 <!--
 **Mast177/Mast177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
