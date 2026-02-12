@@ -1,4 +1,6 @@
 ## Hello
+# I am a computer science student studying at the University of Southern Maine
+#I have experience coding in C#, Python, and GDscript and managing projects with git
 
 <!--
 **Mast177/Mast177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
