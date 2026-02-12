@@ -1,18 +1,36 @@
 ## Hello
-I am a computer science student studying at the University of Southern Maine
-I have experience coding in C#, Python, and GDscript and managing projects with git
+I am a student studying Computer Science and programming at University of Sourthern Maine
 
-<!--
-**Mast177/Mast177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests
+- Programming
+- Game Design
 
-Here are some ideas to get you started:
+### Hobbies:
+- Baking
+- Video games
+- Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+Programming Languages:
+- Python
+- C#
+- GDscript
+- Bluprint Visual Scripting (In Unreal Engine 5)
+  
+Game Engines:
+- Unreal Engine 5
+- Unity
+- Godot
+- Pygame
+
+Project Management:
+- Diversion
+- Git
+- GitHub Desktop
+
+## Previous Projects
+Team leader/project manager for [Frog Simulator](https://frogsimulator.itch.io/frog-simulator):
+- Sprite art and art direction
+- Game balance
+- Coding movement and enemy interaction logic
+- Team organization
