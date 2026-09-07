@@ -34,3 +34,8 @@ Team leader/project manager for [Frog Simulator](https://frogsimulator.itch.io/f
 - Game balance
 - Coding movement and enemy interaction logic
 - Team organization
+
+Sole developer of [Cardiovascular Disease Prediction](https://github.com/Mast177/Cardiovascular-Disease-Prediction)
+- Machine learning training
+- Programing
+- Model performance graphing
